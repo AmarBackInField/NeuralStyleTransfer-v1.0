@@ -22,7 +22,9 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 * *Optimization:* Starting with a copy of the content image, an iterative optimization process adjusts this image to minimize the loss function. This loss combines content loss (difference from the original content image) and style loss (difference from the style image).
 
 
-## * I developed User-Friendly Webpage *
+##  I developed User-Friendly Webpage 
+
+
 ![Screenshot 2024-06-06 201810](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/30cb3de1-48f5-43eb-8b8a-259822e4327b)
 
 *      Note :- Trasfer Style transform image after 500 epochs
