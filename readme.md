@@ -32,7 +32,7 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 
 ![9](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/9dc3fc70-7a7b-466f-be36-fdbc101b19c7)
 
-
+ ## *All results are available in Markdown Folder*
 
 
 
