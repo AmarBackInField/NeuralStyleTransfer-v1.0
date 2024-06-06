@@ -24,6 +24,8 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 ## <i>We got final Results as :</i>
 
 
+![2](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/87e98a74-9f8e-4aa6-b3f5-c80bd9c0cf71)
+
 ![3](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/2c63164b-c53a-441f-ba09-def9c67e0cdd)
 
 ![7](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/3803131e-996f-4f5f-b3b1-f4d2c213a76a)
