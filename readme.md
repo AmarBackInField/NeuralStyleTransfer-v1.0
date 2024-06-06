@@ -27,7 +27,17 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 
 ![Screenshot 2024-06-06 201810](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/30cb3de1-48f5-43eb-8b8a-259822e4327b)
 
-*      Note :- Trasfer Style transform image after 500 epochs
+
+*      Note :- Trasfer Style transform image after 500 epochs {GPU REQUIRED FOR COMPUTATION}
+
+ 
+
+## Run these codes on terminal one-by-one after downloading this repository
+
+*      conda create -p env python=3.9
+*      conda activate ./env
+*      python setup.py install
+*      pip install -r requirements.txt
 
 ## <i>We got final Results as :</i>
 
