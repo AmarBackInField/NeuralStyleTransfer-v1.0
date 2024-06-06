@@ -6,8 +6,7 @@ In this project , we make or transform a new image which has features of both co
 
 For this we have to do fine tunning on vgg19 model and calculate both content loss and style loss.
 
-![Flow Diagram](https://www.researchgate.net/publication/347180236/figure/fig3/AS:1022415605886976@1620774284899/Model-Optimisation-Based-Neural-Style-Transfer-System-5.jpg)
-
+![Model-Optimisation-Based-Neural-Style-Transfer-System-5](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/c760e16b-0ad8-4afb-a8e2-4ffc2bada5f8)
 
 ## *So we got Total Loss :*
 
