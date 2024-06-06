@@ -1,0 +1,8 @@
+flask
+torch 
+torchvision 
+pillow
+tensorflow
+keras
+numpy
+pandas
