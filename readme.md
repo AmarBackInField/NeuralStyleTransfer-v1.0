@@ -54,9 +54,8 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 
  ### *Data folder has sample of both content and style images*
 
- ### *This is Data Sample*
+ ### *Data Sample folder has some plotted image*
 
-![1](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/7bfe88e1-b107-4af4-a427-19caa3bb74ad)
 
 
 
