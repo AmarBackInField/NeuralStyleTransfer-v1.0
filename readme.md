@@ -52,9 +52,11 @@ For this we have to do fine tunning on vgg19 model and calculate both content lo
 
  ## *All results are available in Results Folder*
 
- ## *Data folder has sample of both content and style images*
+ ### *Data folder has sample of both content and style images*
 
- ## *
+ ### *This is Data Sample*
+
+![1](https://github.com/AmarBackInField/NeuralStyleTransfer-v1.0/assets/126746349/7bfe88e1-b107-4af4-a427-19caa3bb74ad)
 
 
 
